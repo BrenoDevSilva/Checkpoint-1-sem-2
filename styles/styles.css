@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#main-home{
+    display: flex;
+    justify-content: center;
+    height: 730px;
+}
+
+#logo-home {
+    width: 185px;
+    position: absolute;
+    left: 45%;
+    top: 40%;
+}
+
+#left-section{
+    background-color: rgba(80, 37, 55, 1);
+    width: 50%;
+    height: 100%;
+}
+
+#right-section{
+    width: 50%;
+    height: 100%;
+    
+}
+
+#h1-home-left {
+    font-size: 56px;
+    color: white;
+    margin-top: 340px;
+}
+
+#h1-home-right {
+    font-size: 56px;
+    color: rgba(80, 37, 55, 1);
+    margin-top: 340px;
+}
+
+#left-section, #right-section {
+    text-align: center;
+
+}
